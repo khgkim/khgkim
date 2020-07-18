@@ -1,4 +1,9 @@
 ### Hi there 👋
+I'm Richard and welcome to my page!
+
+Currently juggling many different things... so this is the least of my priorities. 
+
+I promise I'll find a time (someday) to write a better README!
 
 <!--
 **khgkim/khgkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
